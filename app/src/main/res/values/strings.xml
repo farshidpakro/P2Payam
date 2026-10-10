@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    ```
+    <string name="app_name">P2Payam</string>
+
+<!--    &lt;!&ndash; Main screen &ndash;&gt;-->
+<!--    <string name="username_placeholder">@username</string>-->
+<!--    <string name="recipient_username">@recipient</string>-->
+
+
+        <string name="back">Back</string>
+        <string name="new_chat">New Chat</string>
+        <string name="username">Username</string>
+        <string name="enter_username">Enter username</string>
+        <string name="start_chat">Start Chat</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="starting">Starting...</string>
+
+    <!-- Username setup -->
+    <string name="username_setup">Welcome to P2Payam</string>
+    <string name="username_description">Choose your username. Other users will find you using this name. Example: @farshidpakro</string>
+    <string name="username_hint">Enter username</string>
+    <string name="continue_text">Continue</string>
+
+    <!-- Status -->
+    <string name="online">Online</string>
+    <string name="connected">Connected: @%1$s</string>
+    <string name="message_sent">Message sent</string>
+    <string name="message_stored">Message stored / forwarding</string>
+    <string name="stored_for_delivery">Stored for delivery → @%1$s</string>
+    <string name="message_delivered">Message delivered</string>
+    <string name="peer_disconnected">Peer disconnected</string>
+    <string name="network_error">Network error</string>
+
+    <!-- Validation -->
+    <string name="enter_recipient">Enter recipient username</string>
+    <string name="enter_message">Enter a message</string>
+    <string name="recipient_not_found">Recipient not found</string>
+    <string name="recipient_not_found_dht">Recipient not found in DHT</string>
+
+    <!-- Errors -->
+    <string name="send_error">Send error: %1$s</string>
+    ```
+
+</resources>
